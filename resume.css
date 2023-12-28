@@ -58,7 +58,7 @@ body {
 
 /* Name and Social Icons*/
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:500px){
     #name-social-container{
         margin-top:10px;
     }
