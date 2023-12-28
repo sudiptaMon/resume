@@ -65,7 +65,9 @@ body {
     .timeline-logo{
         display: none;
     }
-    
+    #contact-container{
+        gap:5px;
+    }
 }
 #name-social-container {
     margin-top: 20vh;
